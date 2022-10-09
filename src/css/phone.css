@@ -1,0 +1,21 @@
+.screenshot {
+    padding: 5px 0 0 135px;
+    align-self: right;
+    margin:20px;
+    animation: blinking 5s infinite; 
+}
+
+#phone-screen{
+    background-image: url(../images/frame.png);
+    display: flex;
+    justify-content: right;
+}
+
+@keyframes blinking {
+    0%{opacity: 0;}
+    5%{opacity: 1;}
+    95%{opacity: 1;}
+    100%{opacity: 0;}
+}
+
+
