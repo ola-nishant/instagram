@@ -16,7 +16,7 @@ function App() {
           <div className="col-md-6">
             <div id="layout2"></div>
             <Form />
-          </div>
+            </div>
         </div>
         <Footer />
       </div>

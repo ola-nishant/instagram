@@ -13,3 +13,14 @@ body{
     justify-content: left;
     padding:50px 0;
 }
+
+@media (max-width:768px){
+    #layout1{
+        display: none;
+    }
+    #layout2{
+        display: none;
+       
+    }
+    
+}

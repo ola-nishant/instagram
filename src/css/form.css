@@ -127,3 +127,9 @@ i{
     margin:5px;
     text-align:center ;
 }
+
+@media (max-width:768px){
+  body{
+    padding:46px ;
+  }
+}
